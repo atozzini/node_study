@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "es2016",
+    /* Modules */
+    "module": "commonjs"
+  }
+}
